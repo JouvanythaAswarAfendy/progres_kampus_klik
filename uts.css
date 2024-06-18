@@ -1,0 +1,86 @@
+/* Menggunakan gaya CSS yang diberikan */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    height: 100vh;
+}
+
+th, td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #dddddd;
+    border: 1px solid black;
+}
+
+th {
+    background-color: #2B124C;
+    font-weight: bold;
+    color: white;
+}
+
+h3 {
+    text-align: center;
+}
+/* Menyesuaikan tampilan sidebar */
+/* Menyesuaikan tampilan sidebar */
+.kolom1 {
+    width: 20%;
+ 
+    background-color: #854F6C;
+}
+
+.kolom2 {
+    background-color: #DFB6B2;
+}
+.kolom3 {
+    background-color: #FBE4D8;
+}
+
+
+
+ul {
+    list-style: none;
+   
+}
+
+ul li {
+    padding: 8px;
+   
+}
+
+ul li a {
+    text-decoration: none;
+    color: black;
+}
+
+ul li a:hover {
+    color: white;
+    font-weight: bold;
+}
+
+
+.lamaran p{
+    font-size: 11px;
+}
+.biodata p {
+    font-size: 11px;
+}
+
+.list {
+    list-style-type: none;
+    padding: 0;
+
+}
+
+.biodata img {
+    width: 150px;
+    height: 200px;
+    border-radius: 30px;
+}
+
+.kontak{
+    display: block;
+}
+h4 {
+    text-align: center;
+}
