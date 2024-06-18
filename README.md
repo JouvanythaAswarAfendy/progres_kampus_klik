@@ -1,5 +1,5 @@
 # progres_kampus_klik
-Nama : Jouvanytha Aswar Afendy
-NPM  : 2210631170024
-Mata Kuliah    : Pemrograman Berbasis Web
-Dosen Pengampu : Kamal Prihandani, S.Kom., M.Kom.
+<br> Nama : Jouvanytha Aswar Afendy
+<br> NPM  : 2210631170024
+<br> Mata Kuliah    : Pemrograman Berbasis Web
+<br> Dosen Pengampu : Kamal Prihandani, S.Kom., M.Kom.
